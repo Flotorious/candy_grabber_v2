@@ -1,0 +1,5 @@
+These two Arduino sketches were designt for 
+a) one Arduino Uno (power controller) and
+b) one Arduino Mega (stepper controller)
+
+See individual ino files for more information
